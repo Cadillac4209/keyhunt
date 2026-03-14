@@ -1,7 +1,7 @@
-/*
-Develop by Alberto
-email: albertobsd@gmail.com
-*/
+
+
+
+
 
 #include <stdio.h>
 #include <stdlib.h>
